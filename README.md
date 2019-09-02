@@ -10,7 +10,9 @@ shape like a fish skeleton,precisely the reason or it being called a
 This construction allows significantly greater coverage of oil-
 saturated sections of the strata in comparison with traditional horizontal wells 
 whil,at the same time,involving less extensive drilling works than are required in 
-creating a multistage well.The fishbone construction allows each of the 
+creating a multistage well.
+
+The fishbone construction allows each of the 
 branches[laterals] to be directed at separate reservoirs,without having to encroach 
 on adjacent strata with either water or gas.The laterals can extend in any direction 
 from the horizontal wellbore,at significantly lower cost than drilling individual 
@@ -19,7 +21,9 @@ complex.
 
 The fishbone wells are new production technology applied to increase 
 well productivity and access the difficult geological formations and unconventional 
-reservoirs. The main advantages of this technology over hydraulic fracturing are 
+reservoirs. 
+
+The main advantages of this technology over hydraulic fracturing are 
 the competitive price and reduced operation time.Increase productivity by 
 connecting the well to the reservoir with up to 300 laterals.Accelerate 
 production by integrating stimulation in your drilling program.Avoid water or 
